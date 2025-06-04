@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Joy Cheruto"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Software Engineer |Full Stack Developer |Artificial Intelligence enthusiast| Specializing on tech and software dev projects| Delivering on time and underbudget solutions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
