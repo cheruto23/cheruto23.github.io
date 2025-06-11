@@ -1,7 +1,7 @@
 ---
 title: "Lab Challenges"
 layout: collection
-permalink: /lab-challenges/
+permalink: /labs/
 collection: labs
 entries_layout: list
 ---
