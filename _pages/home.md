@@ -14,6 +14,3 @@ excerpt: >
 
 ---
 
-[View Resume](/resume) • [See Projects](/projects) • [Read Labs](/labs) • [Contact Me](/contact)
-
-{% include feature_row id="intro" %}
