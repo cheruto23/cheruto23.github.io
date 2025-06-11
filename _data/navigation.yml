@@ -1,13 +1,27 @@
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
+#   - title: "Lab Challenges"
+#     url: /labs/
+#   - title: "Contact Me"
+#     url: /contacts/
+
+
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /resume/
+  - title: "Projects"
+    url: /projects/
   - title: "Lab Challenges"
     url: /labs/
-  - title: "Contact Me"
-    url: /contacts/
+  - title: "Contact"
+    url: /contact/
+
