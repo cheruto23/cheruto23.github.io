@@ -32,7 +32,7 @@ plugins:
 # Author profile
 author:
   name   : "Joy Cheruto"
-  avatar : "/assets/images/avatar.jpg" # Replace with your actual avatar image
+  avatar : "/assets/images/banner.jpeg" 
   bio    : "Software Engineer passionate about AI, Data Science, and Web Development."
   links:
     - label: "LinkedIn"
