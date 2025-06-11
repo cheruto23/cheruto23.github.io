@@ -78,7 +78,6 @@ defaults:
       layout: single
       author_profile: true
 
-Archives
 category_archive:
   type: liquid
   path: /categories/
@@ -86,3 +85,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
